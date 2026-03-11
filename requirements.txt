@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+supabase
+twilio
+python-dotenv
+python-multipart
